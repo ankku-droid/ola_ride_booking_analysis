@@ -212,7 +212,7 @@ The complete SQL script is available in:
 # 📁 Project Structure
 
 ```text
-ola-ride-booking-analysis/
+ola_ride_booking_analysis/
 │
 ├── README.md
 │
@@ -220,16 +220,16 @@ ola-ride-booking-analysis/
 │   └── Bookings-100000-Rows.xlsx
 │
 ├── sql/
-│   └── Ola_Project.sql
+│   └── Ola_Business_Problems.sql
 │
 ├── powerbi/
 │   └── Ola_Ride_Booking_Analysis.pbix
 │
 ├── dashboard/
-│   └── Ola_Ride_Booking_Analysis.pdf
+│   └── OLA_Ride_Booking_Dashboard.pdf
 │
 └── documentation/
-    └── OLA-Data-Analyst-Project.pdf
+    └── OLA-Data-Analyst-Project-1.pdf
 ```
 
 ---
