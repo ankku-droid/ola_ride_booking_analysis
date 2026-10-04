@@ -215,21 +215,11 @@ The complete SQL script is available in:
 ola_ride_booking_analysis/
 │
 ├── README.md
-│
-├── data/
-│   └── Bookings-100000-Rows.xlsx
-│
-├── sql/
-│   └── Ola_Business_Problems.sql
-│
-├── powerbi/
-│   └── Ola_Ride_Booking_Analysis.pbix
-│
-├── dashboard/
-│   └── OLA_Ride_Booking_Dashboard.pdf
-│
-└── documentation/
-    └── OLA-Data-Analyst-Project-1.pdf
+├── Bookings-100000-Rows.xlsx
+├── OLA-Data-Analyst-Project-1.pdf
+├── OLA_Ride_Booking_Dashboard.pdf
+├── Ola_Business_Problems.sql
+└── Ola_Ride_Booking_Analysis.pbix
 ```
 
 ---
