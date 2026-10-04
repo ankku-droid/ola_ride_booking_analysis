@@ -27,7 +27,8 @@ count(*)
 
 select customer_id , count(booking_id) as total_rides 
 from bookings 
-group by customer_id order by total_rides limit 5;
+group by customer_id order by total_rides Desc
+limit 5;
 
 -- 5. Get the number of rides cancelled by drivers due to personal and car-related issues
 
